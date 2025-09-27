@@ -1,0 +1,34 @@
+{
+  "name": "glyph-party",
+  "version": "0.1.0",
+  "description": "A beautiful Unicode character search tool for terminal developers",
+  "main": "src/index.html",
+  "scripts": {
+    "build:data": "node build-unicode-data.js",
+    "dev": "python -m http.server 8000",
+    "build": "npm run build:data && echo 'Ready for deployment to Cloudflare Pages!'",
+    "clean": "rm -rf src/*.json"
+  },
+  "keywords": [
+    "unicode",
+    "glyph",
+    "terminal",
+    "cli",
+    "symbols",
+    "characters",
+    "catppuccin"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "ucd-full": "^16.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wimpysworld/glyph-party.git"
+  },
+  "homepage": "https://glyph-party.wimpysworld.com"
+}
