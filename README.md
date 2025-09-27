@@ -1,23 +1,25 @@
 # ✨ Glyph Party
 
-> *Because your terminal deserves better than boring ASCII*
+> *Beautiful Unicode Character Search*
 
-A drop-dead gorgeous Unicode character search tool for developers who want to add visual flair to their CLI applications. Built with love, powered by cups of tea, and themed with [Catppuccin](https://catppuccin.com) colours that'll make your eyes happy.
+A drop-dead gorgeous [Unicode character search](https://glyph-party.wimpys.world/) tool for developers who want to add visual flair to their CLI applications, because your terminal deserves better than boring ASCII. Built with love, powered by cups of tea, and themed with [Catppuccin](https://catppuccin.com) colours 🎨 that'll make your eyes happy.
+
+**🌐 [Try it live at glyph-party.wimpys.world](https://glyph-party.wimpys.world/)**
 
 ## 🎭 The Story
 
-Tired of hunting through nightmarish Unicode search websites that look like they were designed in 1995? So was I. After spending way too long trying to find the perfect arrow symbol for a terminal app, I decided enough was enough 👿
+Tired of hunting through nightmarish Unicode search websites that look like they were designed in 1995? So was I. After spending way too long trying to find the perfect symbols for a terminal app, I decided enough was enough 👿
 
 **Glyph Party** is what happens when a developer gets fed up with ugly interfaces and decides to build something beautiful instead. It's Unicode search, but ✨*pretty*✨.
 
 ## 🚀 What You Get
 
-- **10,000+ carefully curated glyphs** perfect for terminal UIs
+- **10,000+ carefully curated glyphs** perfect for terminal UIs, no [NerdFonts](https://www.nerdfonts.com/) required
 - **Instant search** that actually works (shocking, I know)
 - **Click to copy** any character (because life's too short for manual selection)
 - **Catppuccin Mocha theme** that won't burn your retinas
 - **Categories & blocks** for when you know roughly what you want
-- **Double-click for details** including Unicode codes and HTML entities
+- **Click for details** including Unicode codes and HTML entities
 - **Responsive design** that works on your phone too
 
 ## ⚡ Quick Start
@@ -112,5 +114,4 @@ MIT - Because sharing is caring
 
 ---
 
-*Made with ❤️ in England*
-*Probably while listening to the [Linux Matters](https://linuxmatters.sh) 🐧🎙️*
+*Made in 🏴󠁧󠁢󠁥󠁮󠁧󠁿 while listening to [Linux Matters](https://linuxmatters.sh) 🐧🎙️*
