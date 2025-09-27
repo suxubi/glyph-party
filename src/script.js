@@ -246,17 +246,23 @@ class GlyphParty {
             <div class="character-char">${char.char}</div>
             <div class="character-code">U+${char.code}</div>
             <div class="character-name">${char.name}</div>
+            <button class="character-info-btn" aria-label="Show details for ${char.name}">
+                <i class="fas fa-info-circle"></i>
+            </button>
         `;
 
-        // Click to copy
+        // Click to copy (but not on the info button)
         card.addEventListener('click', (e) => {
-            e.preventDefault();
-            this.copyCharacter(char, card);
+            if (!e.target.closest('.character-info-btn')) {
+                e.preventDefault();
+                this.copyCharacter(char, card);
+            }
         });
 
-        // Double click for details
-        card.addEventListener('dblclick', (e) => {
-            e.preventDefault();
+        // Info button for details
+        const infoBtn = card.querySelector('.character-info-btn');
+        infoBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
             this.showCharacterDetail(char);
         });
 

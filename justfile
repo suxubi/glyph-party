@@ -1,5 +1,5 @@
-# Glyph Party - Just Commands
-# Beautiful Unicode character search for terminal developers
+# Glyph Party recipes
+# Beautiful Unicode Character Search
 
 # List recipes
 list:
@@ -9,7 +9,7 @@ list:
 install:
     npm install
 
-# Build Unicode data from latest UCD
+# Build Unicode data
 build:
     npm run build:data
 
