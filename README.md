@@ -10,7 +10,7 @@ A drop-dead gorgeous [Unicode character search](https://glyph-party.wimpys.world
 
 Tired of hunting through nightmarish Unicode search websites that look like they were designed in 1995? So was I. After spending way too long trying to find the perfect symbols for a terminal app, I decided enough was enough 👿
 
-**Glyph Party** is what happens when a developer gets fed up with ugly interfaces and decides to build something beautiful instead. It's Unicode search, but ✨*pretty*✨.
+**Glyph Party** is what happens when a developer gets fed up with ugly interfaces tuat are awkward to use and decides to build something better instead. It's Unicode search, but ✨*pretty*✨ and easy to use.
 
 ## 🚀 What You Get
 
@@ -41,24 +41,6 @@ npm run dev
 
 **Requirements:** Node.js 16+, Python 3, and a sense of style.
 
-## 🎨 Features That Spark Joy
-
-### Smart Search
-Type `arrow` and get beautiful arrows. Type `heart` and get lovely hearts. Type `math` and get mathematical symbols that would make Euler weep with joy.
-
-### One-Click Copy
-Click any character and it's instantly copied to your clipboard. Because in 2025, we shouldn't have to manually select text like cave dwellers.
-
-### Gorgeous Design
-Built with the Catppuccin Mocha theme because dark mode is life, and purple is the colour of royalty (and developers with good taste).
-
-### Categories That Make Sense
-- Mathematical symbols for your data visualisations
-- Arrows for your flow charts
-- Hearts for when your code finally works
-- Stars for rating systems
-- And much, much more
-
 ## 🛠️ Just Commands
 
 Using [just](https://github.com/casey/just) because Makefiles are so last decade:
@@ -71,14 +53,6 @@ just stats      # Show project statistics
 just check      # Verify everything's working
 just help       # When you forget these commands
 ```
-
-## 🏗️ Built With
-
-- **Vanilla JS** - Because sometimes that where the momentum can be found.
-- **Catppuccin Mocha** - For colours that don't hurt
-- **Unicode 16.0** - The latest and greatest character database
-- **JetBrains Mono** - For that crisp monospace goodness
-- **Love and frustration** - The usual developer cocktail
 
 ## 🚀 Deployment
 
@@ -102,15 +76,10 @@ Designed for [Cloudflare Pages](https://pages.cloudflare.com) but works anywhere
 - **10,616** hand-picked characters
 - **22** categories of awesome
 - **199** Unicode blocks
-- **100%** more stylish than that other Unicode site
 
 ## 🤝 Contributing
 
 Found a bug? Want to add features? Think the colour scheme needs more purple? PRs welcome!
-
-## 📄 License
-
-MIT - Because sharing is caring
 
 ---
 
